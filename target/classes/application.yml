@@ -1,0 +1,14 @@
+backender:
+  welcome_message: "Hello"
+#Configuration Section
+configuration:
+  #Filter Words: pizza, flamingo, cacke
+  filterWords: "pizza"
+  #Limit Courier distance with out motorcycle
+  courierLimitDistance: 1
+  #Priority words: food, vip, distance. The priority is relative to the order of the words in the property. 
+  #In this case, food is most priority than vip. 
+  priorities: "food, vip"
+  #Slot Size in Km 0.5 = 500 mts.
+  slotSize: 0.5
+   

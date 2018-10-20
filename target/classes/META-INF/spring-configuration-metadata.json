@@ -1,0 +1,32 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.glovoapp.backender.GeneralProperties",
+      "name": "configuration",
+      "type": "com.glovoapp.backender.GeneralProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.glovoapp.backender.GeneralProperties",
+      "name": "configuration.courier-limit-distance",
+      "type": "java.lang.Double"
+    },
+    {
+      "sourceType": "com.glovoapp.backender.GeneralProperties",
+      "name": "configuration.filter-words",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.glovoapp.backender.GeneralProperties",
+      "name": "configuration.priorities",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.glovoapp.backender.GeneralProperties",
+      "name": "configuration.slot-size",
+      "type": "java.lang.Float"
+    }
+  ]
+}
